@@ -1,2 +1,3 @@
 # Coursera-practice
-test
+## Editing the file 
+This is just a markdown file that I'm practising with
